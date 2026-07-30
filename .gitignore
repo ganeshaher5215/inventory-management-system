@@ -1,7 +1,5 @@
 # Backend
 backend/inventory-backend/target/
-backend/inventory-backend/.mvn/
-!backend/inventory-backend/.mvn/wrapper/maven-wrapper.properties
 
 # Frontend
 frontend/node_modules/
